@@ -16,6 +16,6 @@
     - Inside this div, add the text essentially, create the button and add it, and add the logo row in the bottom. 
     - Then below that, add another div which will be the container for those 1k+ customers and stuff, so that will be a flex, also add flex-wrap so it collapses as the site is made for mobiles and shit. 
     - Now you add the shoe image, so that will be a new div, and it will itself be a flexbox because below that you have to enter cards. Add the main Shoebox image. 
-    - Below it, also now add the shoeCards, which will themselves be a flex of flex-row
+    - Below it, also now add the shoeCards, which will themselves be a flex of flex-row. 
 
     ?: why is the new arrivals div not to the left? 
