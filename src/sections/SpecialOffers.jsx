@@ -1,5 +1,4 @@
 
-
 import { arrowRight } from "../assets/icons";
 import { offer } from "../assets/images";
 import Button from "../components/Button";
@@ -32,7 +31,7 @@ const SpecialOffers = () => {
                     nothing short of exceptional.
                 </p>
                 <div className='mt-11 flex flex-wrap gap-4'>
-                    <Button label='Shop now' iconURL={arrowRight} />
+                    <Button label="Shop now" icon={arrowRight} />
 
                 </div>
             </div>
