@@ -1,8 +1,9 @@
 import { CustomersReview, Heroes, SuperQuality, SpecialOffers, PopularProducts, Footer, Subscribe, Services } from './sections/index.js'
+import Nav from './components/Nav.jsx';
 
 const App = () => (
   <main className="relative">
-    <div>Nav</div>
+    <Nav />
     <section className="xl:padding-1 wide:padding-r padding-b">
       <Heroes />
     </section>
